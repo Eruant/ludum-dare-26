@@ -1,0 +1,39 @@
+body {
+	overflow: hidden;
+	margin: 20px auto;
+	padding: 0;
+	width: 980px;
+	height: 500px;
+	background: #c1c7c7;
+    font-family: 'Poiret One', Arial;
+    font-size: 30px;
+    text-align: center;
+    color: #333;
+}
+
+#game {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	width: 600px;
+	height: 400px;
+}
+
+canvas {
+	margin: 0;
+	padding: 0;
+}
+
+table td, p {
+    font-size: 25px;
+    min-width: 150px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}

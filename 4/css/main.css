@@ -1,0 +1,21 @@
+body {
+	overflow: hidden;
+	margin: 20px auto;
+	padding: 0;
+	width: 980px;
+	height: 500px;
+	background: #c1c7c7;
+}
+
+#game {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	width: 600px;
+	height: 400px;
+}
+
+canvas {
+	margin: 0;
+	padding: 0;
+}
